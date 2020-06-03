@@ -1,4 +1,4 @@
-# Patrick's Project (using Framer Motion)
+# Patrick's Project (using Framer Motion, React)
 
 1. Source video:
 
