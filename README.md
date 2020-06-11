@@ -3,3 +3,7 @@
 1. Source video:
 
 > https://www.youtube.com/watch?v=lfR2X-jsy8A
+
+2. How to use:
+
+> npm start
